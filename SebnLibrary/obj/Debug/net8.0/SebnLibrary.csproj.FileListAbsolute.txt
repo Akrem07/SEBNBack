@@ -1,0 +1,14 @@
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\bin\Debug\net8.0\SebnLibrary.deps.json
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\bin\Debug\net8.0\SebnLibrary.runtimeconfig.json
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\bin\Debug\net8.0\SebnLibrary.dll
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\bin\Debug\net8.0\SebnLibrary.pdb
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\SebnLibrary.csproj.AssemblyReference.cache
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\SebnLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\SebnLibrary.AssemblyInfoInputs.cache
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\SebnLibrary.AssemblyInfo.cs
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\SebnLibrary.csproj.CoreCompileInputs.cache
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\SebnLibrary.dll
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\refint\SebnLibrary.dll
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\SebnLibrary.pdb
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\SebnLibrary.genruntimeconfig.cache
+C:\Users\21654\source\repos\SebnLibrary\SebnLibrary\obj\Debug\net8.0\ref\SebnLibrary.dll

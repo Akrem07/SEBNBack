@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SebnLibrary", "SebnLibrary\SebnLibrary.csproj", "{9708FDBA-0815-425A-BAF9-044FE4F427C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEBNBack", "SEBNBack\SEBNBack.csproj", "{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9708FDBA-0815-425A-BAF9-044FE4F427C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9708FDBA-0815-425A-BAF9-044FE4F427C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9708FDBA-0815-425A-BAF9-044FE4F427C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9708FDBA-0815-425A-BAF9-044FE4F427C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B7B2B8-3ACF-4858-B93F-1AFFBDAA5270}
+	EndGlobalSection
+EndGlobal

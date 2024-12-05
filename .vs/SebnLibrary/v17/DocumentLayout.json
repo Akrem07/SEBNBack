@@ -1,0 +1,1247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\serviceinjection\\serviceinjectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\serviceinjection\\serviceinjectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\sebnlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\sebnlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\sebnback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\sebnback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\integrationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\integrationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\interfaces\\irolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\interfaces\\irolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repoinjection\\repositoryinjextionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repoinjection\\repositoryinjextionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\sebnback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\sebnback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\controllers\\fichefonctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\controllers\\fichefonctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\classes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\classes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\classes\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\classes\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\classes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\classes\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\classes\\respevaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\classes\\respevaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\classes\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\classes\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\classes\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\classes\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\interfaces\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\interfaces\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\classes\\integrationplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\classes\\integrationplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\interfaces\\iintegrationplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\interfaces\\iintegrationplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\integrationplanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\integrationplanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\controllers\\integrationplancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\controllers\\integrationplancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\interfaces\\irespevaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\interfaces\\irespevaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\fichefonctionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\fichefonctionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\updateipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\updateipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\interfaces\\ifichefonctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\interfaces\\ifichefonctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\classes\\fichefonctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\classes\\fichefonctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\empevamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\empevamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\updateff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\updateff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\fichefonction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\fichefonction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\classes\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\classes\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\exceldatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\exceldatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\classes\\exceldatarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\classes\\exceldatarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\respeva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\respeva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\classes\\respevarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\classes\\respevarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\respevamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\respevamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\classes\\fichefonctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\classes\\fichefonctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\classes\\integrationplanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\classes\\integrationplanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\exceldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\exceldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\sebndblibdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\sebndblibdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\controllers\\exceldatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\controllers\\exceldatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\interfaces\\ifichefonctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\interfaces\\ifichefonctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\abstract\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\abstract\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\controllers\\respevacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\controllers\\respevacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\controllers\\empevacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\controllers\\empevacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\classes\\empevaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\classes\\empevaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\interfaces\\iempevaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\interfaces\\iempevaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\classes\\empevarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\classes\\empevarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\interfaces\\iempevarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\interfaces\\iempevarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\interfaces\\irespevarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\interfaces\\irespevarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\empeva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\empeva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\interfaces\\iintegrationplanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\interfaces\\iintegrationplanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\modelef\\exceldatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\modelef\\exceldatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\identity\\identitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\identity\\identitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\classes\\exceldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\classes\\exceldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\repo\\interfaces\\iexceldatarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\repo\\interfaces\\iexceldatarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\services\\interfaces\\iexceldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\services\\interfaces\\iexceldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnlibrary\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9708FDBA-0815-425A-BAF9-044FE4F427C9}|SebnLibrary\\SebnLibrary.csproj|solutionrelative:sebnlibrary\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\dto\\tokenapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\dto\\tokenapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\sebnback.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\sebnback.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|c:\\users\\21654\\source\\repos\\sebnlibrary\\sebnback\\models\\userffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CF74BA-4947-4A47-AD40-1AFD717FD8DA}|SEBNBack\\SEBNBack.csproj|solutionrelative:sebnback\\models\\userffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntegrationPlan.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\IntegrationPlan.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\IntegrationPlan.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\IntegrationPlan.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\IntegrationPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:13:16.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:53:08.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SEBNBack.http",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\SEBNBack.http",
+              "RelativeDocumentMoniker": "SEBNBack\\SEBNBack.http",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\SEBNBack.http",
+              "RelativeToolTip": "SEBNBack\\SEBNBack.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-20T09:42:19.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Program.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Program.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Program.cs",
+              "RelativeToolTip": "SEBNBack\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADwv2kAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:44:29.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\libman.json",
+              "RelativeDocumentMoniker": "SEBNBack\\libman.json",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\libman.json",
+              "RelativeToolTip": "SEBNBack\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T12:21:44.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\appsettings.json",
+              "RelativeDocumentMoniker": "SEBNBack\\appsettings.json",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\appsettings.json",
+              "RelativeToolTip": "SEBNBack\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T14:22:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SebnLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\SebnLibrary.csproj",
+              "RelativeDocumentMoniker": "SebnLibrary\\SebnLibrary.csproj",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\SebnLibrary.csproj",
+              "RelativeToolTip": "SebnLibrary\\SebnLibrary.csproj",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T09:46:23.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceInjectionModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\ServiceInjection\\ServiceInjectionModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\ServiceInjection\\ServiceInjectionModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\ServiceInjection\\ServiceInjectionModel.cs",
+              "RelativeToolTip": "SEBNBack\\ServiceInjection\\ServiceInjectionModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewBIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:46:19.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRoleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IRoleRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Interfaces\\IRoleRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IRoleRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Interfaces\\IRoleRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:05:09.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryInjextionModule.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\RepoInjection\\RepositoryInjextionModule.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\RepoInjection\\RepositoryInjextionModule.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\RepoInjection\\RepositoryInjextionModule.cs",
+              "RelativeToolTip": "SebnLibrary\\RepoInjection\\RepositoryInjextionModule.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:47:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:03:38.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SEBNBack\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SEBNBack\\Properties\\launchSettings.json",
+              "ViewState": "AQIAADAAAAAAAAAAAADwvxwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T12:37:38.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SEBNBack.csproj",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\SEBNBack.csproj",
+              "RelativeDocumentMoniker": "SEBNBack\\SEBNBack.csproj",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\SEBNBack.csproj",
+              "RelativeToolTip": "SEBNBack\\SEBNBack.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T14:34:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FicheFonctionController.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\FicheFonctionController.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Controllers\\FicheFonctionController.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\FicheFonctionController.cs",
+              "RelativeToolTip": "SEBNBack\\Controllers\\FicheFonctionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:49:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Classes\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\DepartmentService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Classes\\DepartmentService.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAAAKEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:50:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RespEvaService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\RespEvaService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Classes\\RespEvaService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\RespEvaService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Classes\\RespEvaService.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAIwH8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:33:31.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SEBNBack\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:49:58.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:57:42.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "SEBNBack\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAIwHMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:39:20.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "SEBNBack\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADwv0gAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:32:24.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\UserService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Classes\\UserService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\UserService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Classes\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:51:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\RoleService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Classes\\RoleService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\RoleService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Classes\\RoleService.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:26:17.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:52:59.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\RoleRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Classes\\RoleRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\RoleRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Classes\\RoleRepo.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:04:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Classes\\DepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\DepartmentRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Classes\\DepartmentRepo.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:03:54.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Interfaces\\IDepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IDepartmentRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Interfaces\\IDepartmentRepo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:04:08.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IIntegrationPlanService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IIntegrationPlanService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Interfaces\\IIntegrationPlanService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IIntegrationPlanService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Interfaces\\IIntegrationPlanService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wBAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:29:42.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\LoginModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:42:41.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IntegrationPlanModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\IntegrationPlanModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\IntegrationPlanModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\IntegrationPlanModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\IntegrationPlanModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:15:33.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IntegrationPlanService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\IntegrationPlanService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Classes\\IntegrationPlanService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\IntegrationPlanService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Classes\\IntegrationPlanService.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAIwLUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:51:11.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IntegrationPlanController.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\IntegrationPlanController.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Controllers\\IntegrationPlanController.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\IntegrationPlanController.cs",
+              "RelativeToolTip": "SEBNBack\\Controllers\\IntegrationPlanController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv3cAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:08:02.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRespEvaService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IRespEvaService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Interfaces\\IRespEvaService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IRespEvaService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Interfaces\\IRespEvaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:33:45.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateIpModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\UpdateIpModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\UpdateIpModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\UpdateIpModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\UpdateIpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:25:54.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FicheFonctionModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\FicheFonctionModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\FicheFonctionModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\FicheFonctionModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\FicheFonctionModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:59:48.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IFicheFonctionService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IFicheFonctionService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Interfaces\\IFicheFonctionService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IFicheFonctionService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Interfaces\\IFicheFonctionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:52:50.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FicheFonctionService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\FicheFonctionService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Classes\\FicheFonctionService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\FicheFonctionService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Classes\\FicheFonctionService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAYwFQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:05:40.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmpEvaModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\EmpEvaModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\EmpEvaModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\EmpEvaModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\EmpEvaModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:49:19.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateFF.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\UpdateFF.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\UpdateFF.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\UpdateFF.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\UpdateFF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:44:20.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UserFfModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\UserFfModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\UserFfModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\UserFfModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\UserFfModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:03:16.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\RoleModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\RoleModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\RoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:50:05.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FicheFonction.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\FicheFonction.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\FicheFonction.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\FicheFonction.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\FicheFonction.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:06:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\UserModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:13:20.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AddUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\AddUserModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\AddUserModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\AddUserModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\AddUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:24:18.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\User.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\User.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\User.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\User.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwC4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:20:35.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\UserRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Classes\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\UserRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Classes\\UserRepo.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAowLsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:03:24.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\DepartmentModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\DepartmentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:59:46.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RespEvaModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\RespEvaModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\RespEvaModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\RespEvaModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\RespEvaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:26:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ExcelDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\ExcelDataModel.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\ExcelDataModel.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\ExcelDataModel.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\ExcelDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:44.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ExcelDataRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\ExcelDataRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Classes\\ExcelDataRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\ExcelDataRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Classes\\ExcelDataRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:56:36.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\Department.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\Department.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\Department.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:00:00.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RespEva.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\RespEva.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\RespEva.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\RespEva.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\RespEva.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAUwDQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:16:02.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RespEvaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\RespEvaRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Classes\\RespEvaRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\RespEvaRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Classes\\RespEvaRepo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:16:34.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FicheFonctionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\FicheFonctionRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Classes\\FicheFonctionRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\FicheFonctionRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Classes\\FicheFonctionRepo.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:04:27.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IntegrationPlanRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\IntegrationPlanRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Classes\\IntegrationPlanRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\IntegrationPlanRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Classes\\IntegrationPlanRepo.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAYwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:05:30.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ExcelData.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\ExcelData.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\ExcelData.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\ExcelData.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\ExcelData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:54:32.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SEBNDbLibDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\SEBNDbLibDbContext.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\SEBNDbLibDbContext.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\SEBNDbLibDbContext.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\SEBNDbLibDbContext.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwGcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:00:17.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ExcelDataController.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\ExcelDataController.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Controllers\\ExcelDataController.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\ExcelDataController.cs",
+              "RelativeToolTip": "SEBNBack\\Controllers\\ExcelDataController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:04:31.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IFicheFonctionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IFicheFonctionRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Interfaces\\IFicheFonctionRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IFicheFonctionRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Interfaces\\IFicheFonctionRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAnwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:04:36.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Abstract\\Repository.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Abstract\\Repository.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Abstract\\Repository.cs",
+              "RelativeToolTip": "SebnLibrary\\Abstract\\Repository.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:01:30.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EmpEvaController.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\EmpEvaController.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Controllers\\EmpEvaController.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\EmpEvaController.cs",
+              "RelativeToolTip": "SEBNBack\\Controllers\\EmpEvaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:51:12.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EmpEvaService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\EmpEvaService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Classes\\EmpEvaService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\EmpEvaService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Classes\\EmpEvaService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:50:25.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RespEvaController.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\RespEvaController.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Controllers\\RespEvaController.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Controllers\\RespEvaController.cs",
+              "RelativeToolTip": "SEBNBack\\Controllers\\RespEvaController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:15:34.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IEmpEvaService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IEmpEvaService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Interfaces\\IEmpEvaService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IEmpEvaService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Interfaces\\IEmpEvaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:59:13.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IEmpEvaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IEmpEvaRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Interfaces\\IEmpEvaRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IEmpEvaRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Interfaces\\IEmpEvaRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:38:37.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IRespEvaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IRespEvaRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Interfaces\\IRespEvaRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IRespEvaRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Interfaces\\IRespEvaRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:16:50.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EmpEva.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\EmpEva.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\EmpEva.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\EmpEva.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\EmpEva.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:02:44.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EmpEvaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\EmpEvaRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Classes\\EmpEvaRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Classes\\EmpEvaRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Classes\\EmpEvaRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:09:09.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IIntegrationPlanRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IIntegrationPlanRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Interfaces\\IIntegrationPlanRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IIntegrationPlanRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Interfaces\\IIntegrationPlanRepo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA4wBEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:04:42.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ExcelDatum.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\ExcelDatum.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\ModelEF\\ExcelDatum.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\ModelEF\\ExcelDatum.cs",
+              "RelativeToolTip": "SebnLibrary\\ModelEF\\ExcelDatum.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:13:57.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IdentityData.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Identity\\IdentityData.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Identity\\IdentityData.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Identity\\IdentityData.cs",
+              "RelativeToolTip": "SEBNBack\\Identity\\IdentityData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:46:51.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ExcelDataService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\ExcelDataService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Classes\\ExcelDataService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Classes\\ExcelDataService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Classes\\ExcelDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:02:54.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IExcelDataRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IExcelDataRepo.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Repo\\Interfaces\\IExcelDataRepo.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Repo\\Interfaces\\IExcelDataRepo.cs",
+              "RelativeToolTip": "SebnLibrary\\Repo\\Interfaces\\IExcelDataRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:56:54.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IExcelDataService.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IExcelDataService.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Services\\Interfaces\\IExcelDataService.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Services\\Interfaces\\IExcelDataService.cs",
+              "RelativeToolTip": "SEBNBack\\Services\\Interfaces\\IExcelDataService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:02:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "SebnLibrary\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SebnLibrary\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "SebnLibrary\\Abstract\\IRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:01:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TokenApiDto.cs",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\dto\\TokenApiDto.cs",
+              "RelativeDocumentMoniker": "SEBNBack\\Models\\dto\\TokenApiDto.cs",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\Models\\dto\\TokenApiDto.cs",
+              "RelativeToolTip": "SEBNBack\\Models\\dto\\TokenApiDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:08:28.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SEBNBack",
+              "DocumentMoniker": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\SEBNBack.csproj",
+              "RelativeDocumentMoniker": "SEBNBack\\SEBNBack.csproj",
+              "ToolTip": "C:\\Users\\21654\\source\\repos\\SebnLibrary\\SEBNBack\\SEBNBack.csproj",
+              "RelativeToolTip": "SEBNBack\\SEBNBack.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T12:45:44.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

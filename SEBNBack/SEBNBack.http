@@ -1,0 +1,6 @@
+@SEBNBack_HostAddress = http://localhost:5234
+
+GET {{SEBNBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
